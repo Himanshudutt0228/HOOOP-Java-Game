@@ -4,7 +4,7 @@
 HOOOP is a digital implementation of the board game developed in Java using Swing. The game provides an interactive graphical user interface and supports multiplayer gameplay.
 
 ## Features
-- Multiplayer support (2–4 players)
+- Multiplayer support (2–4 players) and play against the computer
 - Interactive GUI built with Java Swing
 - Game setup system for player configuration
 - Settings module for customizing gameplay preferences
