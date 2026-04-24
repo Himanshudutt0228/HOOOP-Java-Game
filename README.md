@@ -16,6 +16,7 @@ HOOOP is a digital implementation of the board game developed in Java using Swin
 I designed and implemented:
 - Game setup system (player selection and initialization)
 - Settings module (user preferences and configurations)
+- Save and load functionality
 - Menu navigation and user interaction flow
 
 ## Technologies Used
